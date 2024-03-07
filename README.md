@@ -1,2 +1,2 @@
 # Space-Invaders
-Final project for CS1110 FA2019 - Space Invaders
+My replica of the Space Invaders Game
